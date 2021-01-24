@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2021
-*
 * The Bike.java is a subclass for Vehicles.java file.
 * 
 * @author  Wajd Mariam
