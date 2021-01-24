@@ -1,6 +1,4 @@
 /*
-* Copyright (c) 2021
-*
 * The Vehicles.java is a superclass in the Main.java Program
 * 
 * @author  Wajd Mariam
